@@ -1,8 +1,7 @@
 
 **# Get password from chrome**
 
-Underdevelopment 
- get chrome stored password using python.
+get chrome stored password using python.
 =======
 # Get password from chrome
 
