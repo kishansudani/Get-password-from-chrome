@@ -1,7 +1,7 @@
-shutil
-Crypto
-win32crypt
-sqlite3
-base64
-json
-os
+pytest-shutil
+pycrypto
+pypiwin32
+pysqlite3
+pybase64
+jsonlib
+os-sys
