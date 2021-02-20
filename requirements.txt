@@ -1,0 +1,7 @@
+shutil
+Crypto
+win32crypt
+sqlite3
+base64
+json
+os
